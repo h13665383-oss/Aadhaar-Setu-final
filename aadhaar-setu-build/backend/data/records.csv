@@ -1,0 +1,4 @@
+id,user_id,status,timestamp
+101,5,Active,2025-01-01T10:00:00
+102,5,Pending,2025-01-02T11:30:00
+103,4,Processed,2025-01-03T09:15:00

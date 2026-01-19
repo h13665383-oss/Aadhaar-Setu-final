@@ -1,0 +1,8 @@
+id,name,email,password,role,state,district,block,location
+1,Admin User,admin@example.com,admin123,national,,,,
+2,State Officer,state@example.com,state123,state,Maharashtra,,,
+3,District Officer,district@example.com,district123,district,Maharashtra,Pune,
+4,Block Officer,block@example.com,block123,block,Maharashtra,Pune,Haveli
+5,Citizen User,citizen@gmail.com,citizen123,public,,,,
+59f4c87b-ade0-48ae-a4a9-8c9966d7b3d6,himadri,himadriofficial@gmail.com,123,national,,All Districts,All Blocks,"All Blocks, All Districts, "
+43cdde50-5b54-4295-aceb-920e8ffa8df4,abhijit,abhi@gmail.com,123654,public,Manipur,yyfutdu,,"yyfutdu, Manipur"
